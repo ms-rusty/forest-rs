@@ -1,9 +1,10 @@
 [package]
 name = "forest-rs"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
 description = "Forest-RS"
 categories = ["Asynchronous", "Game development", "Proxy"]
 keywords = ["gamedev", "graphics", "minecraft"]
 authors = ["DooMWhite <doomwhitex@gmail.com>", "Ramon <ramonbernado.contato@gmail.com>"]
 license = "MIT OR Apache-2.0"
+repository = "https://github.com/ms-rusty/forest-rs"
